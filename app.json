@@ -1,10 +1,10 @@
 {
   "expo": {
-    "name": "pokedex",
-    "slug": "pokedex",
+    "name": "book_app",
+    "slug": "book_app",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/book_icon.png",
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
